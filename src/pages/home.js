@@ -5,10 +5,10 @@ import loadable from "@loadable/component";
 
 const App = loadable(() => import("../components/homepage/app"));
 const Home = () => (
-  <>
-    <SEO title="Home" />
-    <App></App>
-  </>
+    <>
+        <SEO title="Home" />
+        <App></App>
+    </>
 );
 
 export default Home;
