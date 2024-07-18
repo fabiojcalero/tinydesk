@@ -115,6 +115,7 @@ const App = () => {
     const [selectedFolderIndex, setSelectedFolderIndex] = useState(0);
 
     useEffect(() => {
+        // setLoading(true);
         const setter = {
             setFolders,
             setBackground,
