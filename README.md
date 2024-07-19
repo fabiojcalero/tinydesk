@@ -1,20 +1,22 @@
-# CSE416 Software Engineering Project
-
-[![Gatsby Build Test](https://github.com/janarosmonaliev/project-416/actions/workflows/gatsby-test-master.yml/badge.svg?branch=master)](https://github.com/janarosmonaliev/project-416/actions/workflows/gatsby-test-master.yml)
+# Tiny Desk (Originally CommandT by TeamKGB)
 
 ### Development
 
-Guidelines for getting started is located at [CONTRIBUTING.md](CONTRIBUTING.md)  
+Guidelines for getting started are located at [CONTRIBUTING.md](CONTRIBUTING.md)  
 Project progress and changelog can be tracked at [CHANGELOG.md](CHANGELOG.md)
 
 ## About Our Team:
 
-### Team: KGB (Kuhn the General Boss)
+### CommandT v0.0.1 (05,2021) developed by Team KGB (Kuhn the General Boss)
 
 Project Manager: Yejin Shin - yejin.shin@stonybrook.edu <br />
 Lead Programmer: Zhanarbek Osmonaliev - zhanarbek.osmonaliev@stonybrook.edu <br />
 Product Owner: Hasung Jun - hasung.jun@stonybrook.edu <br />
 Designer: Fabio Calero - fabio.calero@stonybrook.edu <br />
+
+### Tiny Desk v1.0 and higher
+
+The development of Tiny Desk, the successor of CommandT has continued independently by Fabio Calero, one of the founding members of Team KGB.
 
 ## Target User:
 
@@ -28,6 +30,6 @@ Internet browsers have very limited options for managing and organizing bookmark
 
 Our solution is to create a webpage that serves as a startup page on an internet browser. We chose Google Chrome for this project. This webpage will allow users to manage their bookmarks by categorizing them into folders. The webpage will also contain widgets for notes, to-do lists, weather, and calendar. Users need to sign up to enjoy these funtionaities.
 
-<img width="1440" alt="Screen Shot 2021-04-22 at 12 10 50 PM" src="https://user-images.githubusercontent.com/59468036/115650472-37040700-a364-11eb-99b5-5fe15cef8b2f.png">
+<img width="1440" alt="Screen Shot 2021-04-22 at 12 10 50 PM" src="https://ucarecdn.com/406d77bf-5af6-4880-894a-2735a9050271/tinydeskdemo.png">
 
-Last Modified: 25/05/2021 11:19 PM
+Last Modified: 07/18/2024 3:47 AM
