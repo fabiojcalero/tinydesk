@@ -14,7 +14,7 @@ Lead Programmer: Zhanarbek Osmonaliev - zhanarbek.osmonaliev@stonybrook.edu <br 
 Product Owner: Hasung Jun - hasung.jun@stonybrook.edu <br />
 Designer: Fabio Calero - fabio.calero@stonybrook.edu <br />
 
-### Tiny Desk v1.0 and higher
+### Tiny Desk v0.0.2 and higher
 
 The development of Tiny Desk, the successor of CommandT has continued independently by Fabio Calero, one of the founding members of Team KGB.
 
@@ -32,4 +32,4 @@ Our solution is to create a webpage that serves as a startup page on an internet
 
 <img width="1440" alt="Screen Shot 2021-04-22 at 12 10 50 PM" src="https://ucarecdn.com/406d77bf-5af6-4880-894a-2735a9050271/tinydeskdemo.png">
 
-Last Modified: 07/18/2024 3:47 AM
+Last Modified: 07/19/2024 6:51 AM
