@@ -426,7 +426,7 @@ const NotesWindow = forwardRef(({ notes, setNotes, open, setOpen }, ref) => {
           disableTouchRipple
           onClick={onClickAddNotes}
         >
-          Add a new list
+          Add new note
         </Button>
       </DialogActions>
       <Menu

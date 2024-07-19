@@ -1,9 +1,9 @@
 module.exports = {
-  pathPrefix: "/project-416",
+  pathPrefix: "/tinydesk",
   siteMetadata: {
     title: `Tiny Desk`,
-    description: `Personal homepage that replaces the default startup page. It lets the user manage bookmarks, create to-do lists, and write notes. Start using Tiny Desk and boost your productivity.`,
-    author: `Team KGB`,
+    description: `Productivity tool that lets power web users manage bookmarks in a sensible way and increase their productivity online. With Tiny Desk, you can manage bookmarks, create to-do lists, and write notes. Start using Tiny Desk and boost your web browsing productivity today.`,
+    author: `Fabio Calero and Team KGB`,
     viewport: "width=device-width, initial-scale=1, shrink-to-fit=no",
     image:
       "https://user-images.githubusercontent.com/31612210/113110528-24555100-9242-11eb-9725-a4f8b43fa5d2.png",
@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Project 416`,
-        short_name: `project-416`,
+        name: `Tiny Desk`,
+        short_name: `tinydesk`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

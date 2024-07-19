@@ -177,7 +177,7 @@ const SignupPage = () => {
                                     disabled={disabled}
                                 >
                                     <MenuItem key="usa" value="usa">
-                                        United State
+                                        United States
                                     </MenuItem>
                                     <MenuItem key="korea" value="korea">
                                         South Korea
