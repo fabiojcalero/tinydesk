@@ -182,6 +182,12 @@ const SignupPage = () => {
                                     <MenuItem key="korea" value="korea">
                                         South Korea
                                     </MenuItem>
+                                    <MenuItem key="do" value="do">
+                                        Dominican Republic
+                                    </MenuItem>
+                                    <MenuItem key="de" value="de">
+                                        Germany
+                                    </MenuItem>
                                 </TextField>
                                 <Autocomplete
                                     onChange={(e, newValue) => {
